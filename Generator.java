@@ -1,7 +1,7 @@
 /*
  * Name: Huseyn Sadatkhanov
  * Project: Random Number Generator & Statistics
- * Class: Object Oriented Analysis & Design
+ * Class: CSCI-3612-20966-Object Oriented Analysis & Design
  * Date: 2026-02-09
  */
 import java.lang.Math;
@@ -18,7 +18,7 @@ public class Generator {
     /*
      * Used for java.util.Random generator
      */
-    private Random random = new Random();   // Accessibility: private
+    private Random random = new Random();   // Accessibility is private
 
     /*
      * ===== METHOD DEFINITION =====
@@ -84,7 +84,7 @@ public class Generator {
     }
 
     /*
-     * Displays results in tabular form
+     * Displays results in table format
      */
     public void display(ArrayList<Double> results, boolean headerOn) {
         if (headerOn) {
