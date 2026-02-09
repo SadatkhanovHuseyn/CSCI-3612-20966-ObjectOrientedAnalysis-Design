@@ -21,7 +21,6 @@ public class Generator {
     private Random random = new Random();   // Accessibility is private
 
     /*
-     * ===== METHOD DEFINITION =====
      * Generates n random numbers using the selected generator.
      * randNumGen:
      * 1 -> java.util.Random
