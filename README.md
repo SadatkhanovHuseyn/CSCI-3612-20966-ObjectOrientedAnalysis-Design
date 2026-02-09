@@ -1,7 +1,6 @@
 # Random Number Generator Statistics (JAVA)
 
 ## Project Overview
-## Project Overview
 This Java program generates random numbers using three different built-in Java random number generators (`java.util.Random`, `Math.random()`, `ThreadLocalRandom`) and analyzes the generated data using descriptive statistics.
 
 The program demonstrates basic **object-oriented programming concepts**, including class definitions, method definitions, class attributes, object instantiation, and accessibility modifiers.
